@@ -3,6 +3,7 @@
 # Kinogrida
 
 A macOS screen saver featuring animated geometric shapes — arcs and rounded squares — moving across a grid with smooth transitions and automatic palette changes.
+Ported from the [Kinogrida web project](https://github.com/Amphore-Dev/Kinogrida) (TypeScript/Canvas) to native Swift.
 
 ## Features
 
